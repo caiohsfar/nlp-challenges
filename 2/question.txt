@@ -1,0 +1,9 @@
+Desafio Proposto 2
+
+    1. Leia cada documento do Dataset DUC 2001 e coloque numa lista do python, onde cada elemento da lista é o documento em formato de texto;
+    2. Extraia Informações do Dataset usando as técnicas de Mineração de Texto vistas até agora;
+    3. Plot essas informações em gráficos e WordClouds;
+    4. Faça o mesmo (1,2 e 3) para o DUC 2002;
+    5. Compare as Informações do Dataset do DUC 2001 e DUC 2002;
+
+OBS.: A ideia é você conseguir, com esse desafio, criar insights! Mande mensagem pra mim que a gente conversa mais sobre isso!
