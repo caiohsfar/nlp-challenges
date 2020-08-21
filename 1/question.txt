@@ -1,0 +1,15 @@
+DESAFIO 1
+
+Use o NLTK para criar um pipeline que realize as seguintes tarefas, nesta ordem: 
+ Tokenization, Sentence Splitting, Lemmatization, Stemming e POS tagging 
+
+Em seguida gere as seguintes informações estatísticas e gráficos de barras em relação ao texto em inglês “task1.txt”: 
+Quantas palavras temos em todo o texto? 
+Quantos radicais (stemming) diferentes existem?
+Qual o número de sentenças e a média de tokens por sentença?
+Gere um gráfico de barra do conjunto de POS tags de todas as palavras do texto. Ordene os resultados e responda: quais classes gramaticais correspondem a mais de 70 ou 80% do total? 
+
+
+DESAFIO 2
+
+Crie um programa em python que tokenize o arquivo em português “task2.txt”, a imagem "pseudo-código" nesse arquivo tem o pseudo-código do algoritmo de tokenização. 
